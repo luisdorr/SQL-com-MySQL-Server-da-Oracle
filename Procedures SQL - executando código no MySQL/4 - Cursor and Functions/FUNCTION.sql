@@ -1,0 +1,16 @@
+USE `sucos_vendas`;
+DROP function IF EXISTS `numero_notas`;
+
+DELIMITER $$
+USE `sucos_vendas`$$
+CREATE FUNCTION `numero_notas` (DATA DATE)
+RETURNS INTEGER
+BEGIN
+	DECLARE NUMNOTAS INT;
+
+	SELECT COUNT(*) INTO NUMNOTAS
+    FROM notas_fiscais
+    WHERE DATA_VENDA = DATA;
+
+    RETURN NUMNOTAS;
+END$$
