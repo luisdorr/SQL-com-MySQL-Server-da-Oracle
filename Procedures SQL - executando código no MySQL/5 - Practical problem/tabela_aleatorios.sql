@@ -1,0 +1,27 @@
+USE `sucos_vendas`;
+DROP procedure IF EXISTS `Tabela_Numeros`;
+
+USE `sucos_vendas`;
+DROP procedure IF EXISTS `sucos_vendas`.`Tabela_Numeros`;
+;
+
+DELIMITER $$
+USE `sucos_vendas`$$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `Tabela_Numeros`()
+BEGIN
+	DECLARE CONTADOR INT;
+	DECLARE CONTMAXIMO INT;
+	SET CONTADOR = 1;
+	SET CONTMAXIMO = 100;
+	DELETE FROM TABELA_ALEATORIOS;
+	WHILE CONTADOR <= CONTMAXIMO
+	DO
+		INSERT INTO TABELA_ALEATORIOS (NUMERO) VALUES (f_numero_aleatorio(0,1000));
+		SET CONTADOR = CONTADOR + 1;
+	END WHILE;
+	SELECT * FROM TABELA_ALEATORIOS;
+END $$
+
+DELIMITER ;
+;
+

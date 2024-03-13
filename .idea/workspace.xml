@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1c4b8d7-be1f-4f4d-97ca-f682260b8abf" name="Changes" comment="Add my solution to the practical problem">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/sakila.oXLGyQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/sakila.oXLGyQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/sucos_vendas.MaUbXg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/sucos_vendas.MaUbXg.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/vendas_sucos.PfnM9A.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/vendas_sucos2.lS7SpA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/879a092f-a764-4d33-90fd-95acef9206f3/storage_v2/_src_/schema/world.khvBBg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procedures SQL - executando código no MySQL/5 - Practical problem/criando-triggers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procedures SQL - executando código no MySQL/5 - Practical problem/f_cliente_aleatorio.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procedures SQL - executando código no MySQL/5 - Practical problem/f_numero_aleatorio.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procedures SQL - executando código no MySQL/5 - Practical problem/f_produto_aleatorio.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procedures SQL - executando código no MySQL/5 - Practical problem/f_vendedor_aleatorio.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procedures SQL - executando código no MySQL/5 - Practical problem/p_calculo_faturamento.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procedures SQL - executando código no MySQL/5 - Practical problem/p_inserir_venda.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procedures SQL - executando código no MySQL/5 - Practical problem/tabela_aleatorios.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/._dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/._workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2cruftPjdef2joXb27SztKdbz1p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Luisd&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora_aws&quot;,
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;MySQL&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add all theoretical codes about Procedures SQL." />
+    <MESSAGE value="Add my solution to the practical problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add my solution to the practical problem" />
+  </component>
+</project>
